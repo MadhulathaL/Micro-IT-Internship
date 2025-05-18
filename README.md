@@ -1,5 +1,6 @@
 # Micro-IT-Internship
-<b>CURRENCY CONVERTER</b> <br>
+<b>CURRENCY CONVERTER</b> <a href="https://madhulathal.github.io/Micro-IT-Internship/">**Convert Now** </a>
+<br>
  A currency converter is an application that allows users to convert amounts between different currencies
  using real-time exchange rates. It typically features a user-friendly interface where users can select
  currencies and input amounts for conversion
